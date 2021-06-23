@@ -553,7 +553,11 @@ body{
     .email {
         margin-bottom: 10px;
     }
-    .contact-footer {
+
+        .contact-section {
+        padding: 50px 0;
+    }
+        .contact-footer {
         padding-top: 30px;
     }
 
@@ -658,5 +662,8 @@ body{
     .user-item {
         width: 100%;
         margin: 3% 0%;
+    }
+        .contact-section {
+        padding: 50px 0;
     }
 }
