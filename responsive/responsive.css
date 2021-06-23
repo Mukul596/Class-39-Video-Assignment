@@ -509,6 +509,14 @@ body{
     .about-section p {
         font-size: 11px;
     }
+    .about-box {
+        width: 100%;
+        margin: 3% 0%;
+    }
+    .pricing-box {
+        width: 100%;
+        margin: 3% 0%;
+    }
     .pricing-head h3 {
         font-size: 22px;
     }
