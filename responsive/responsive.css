@@ -528,6 +528,10 @@ body{
         font-size: 25px;
         width: 44px;
     }
+    .user-item {
+        width: 100%;
+        margin: 3% 0%;
+    }
     .footer-btn a {
         padding: 18px 25px;
         font-size: 18px;
@@ -648,6 +652,10 @@ body{
         margin: 3% 0%;
     }
     .pricing-box {
+        width: 100%;
+        margin: 3% 0%;
+    }
+    .user-item {
         width: 100%;
         margin: 3% 0%;
     }
