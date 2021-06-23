@@ -642,3 +642,13 @@ body{
         font-size: 14px;
     }
 }
+@media all and (max-width:350px){
+    .about-box {
+        width: 100%;
+        margin: 3% 0%;
+    }
+    .pricing-box {
+        width: 100%;
+        margin: 3% 0%;
+    }
+}
